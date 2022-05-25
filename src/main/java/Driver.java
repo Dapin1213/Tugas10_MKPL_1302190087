@@ -5,6 +5,6 @@ public class Driver {
 		Shouter shouter = new Shouter();
 		
 		shouter.shout("hurrah");
-	}
+	
 
 }
